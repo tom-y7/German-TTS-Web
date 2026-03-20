@@ -1,3 +1,2 @@
 gradio==4.20.0
-edge-tts==6.1.9
-huggingface-hub==0.22.2
+azure-cognitiveservices-speech

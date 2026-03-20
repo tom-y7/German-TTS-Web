@@ -1,2 +1,8 @@
+# 核心界面库 (锁死在稳定版)
 gradio==4.20.0
+# 微软官方引擎库
 azure-cognitiveservices-speech
+# 补丁库：专门用来修复你截图里的 HfFolder 报错
+huggingface-hub==0.24.1
+# 数据处理增强库 (Gradio 运行必需)
+pandas
